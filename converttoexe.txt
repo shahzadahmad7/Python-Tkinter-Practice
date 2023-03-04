@@ -1,0 +1,3 @@
+#to convert python file to exe
+pyinstaller --onefile -w filename
+# Now check the location of the file(script file) and you will find a dist folder which contains the executable file in it.
